@@ -1,8 +1,8 @@
 # BLUECAR (ELECTRIC CAR SHARING) DATA ANALYSIS PROJECT
 
-#### By Nelson Muteti
+#### By Cheruiyot Lilcoln
    
-   nelsonmuteti012@gmail.com 
+   cheruiyotlilcoln@gmail.com 
 
 ## PROBLEM STATEMENT
 
@@ -82,7 +82,7 @@ outlined. I use the CRISP DM Methodology to approach the project.
 
 MIT License
 
-Copyright (c) 2021 NelsonM
+Copyright (c) 2021 Cheruiyot-lab
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
