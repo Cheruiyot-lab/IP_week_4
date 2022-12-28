@@ -72,7 +72,7 @@ outlined. I use the CRISP DM Methodology to approach the project.
 
 ## Support
 
-*Contact Nelson Muteti : cheruiyotlilcoln@gmail.com for any clarification.
+*Contact Cheruiyot Lilcoln : cheruiyotlilcoln@gmail.com for any clarification.
 
 *No need to request permission to fork this project.
 
